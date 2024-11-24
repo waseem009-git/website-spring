@@ -1,0 +1,5 @@
+runtime: java17
+env: standard
+
+env_variables:
+  GOOGLE_CLOUD_PROJECT: gleaming-lead-438006-g4
